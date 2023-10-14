@@ -1,4 +1,7 @@
-### Hi there 👋
+### Pilovingjoe
+Pronouns: HeHim
+<br>
+I am a Computer Science and Math Student, and my current mission is to survive :)
 
 <!--
 **pilovingjoe/pilovingjoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
